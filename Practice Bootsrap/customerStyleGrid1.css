@@ -1,0 +1,28 @@
+.customDiv{
+    margin: 3px;
+    min-height: 300px;
+    background-color: rgb(161, 27, 27);
+    text-align: center;
+    font-size: large;
+    color: aliceblue;
+}
+
+.customDiv2{
+    margin: 3px;
+    min-height: 300px;
+    background-color: rgb(27, 123, 161);
+    text-align: center;
+    font-size: large;
+    color: rgb(38, 39, 41);
+}
+.customDiv3{
+    margin: 3px;
+    min-height: 150px;
+    background-color: rgb(161, 27, 27);
+    text-align: center;
+    font-size: large;
+    color: aliceblue;
+}
+.img-thumbnail{
+    height:200px!important;
+  }
